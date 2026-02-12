@@ -1,0 +1,9 @@
+
+{
+  "name": "Nexus CRM - Lead Management System",
+  "description": "A professional-grade CRM for startups and small businesses featuring AI-powered lead scoring, interactive dashboards, and full pipeline management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
