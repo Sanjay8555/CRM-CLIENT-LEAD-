@@ -1,0 +1,8 @@
+{
+  "name": "Smart Public Service CRM (PS-CRM)",
+  "description": "An AI-driven digital command center for municipal grievance redressal, workflow automation, and predictive governance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
